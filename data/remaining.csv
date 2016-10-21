@@ -1,0 +1,185 @@
+E0,26/04/14,Southampton,Everton
+E0,26/04/14,Fulham,Hull
+E0,26/04/14,Stoke,Tottenham
+E0,26/04/14,Swansea,Aston Villa
+E0,26/04/14,West Brom,West Ham
+E0,26/04/14,Man United,Norwich
+E0,27/04/14,Sunderland,Cardiff
+E0,27/04/14,Liverpool,Chelsea
+E0,27/04/14,Crystal Palace,Man City
+E0,28/04/14,Arsenal,Newcastle
+E0,03/05/14,West Ham,Tottenham
+E0,03/05/14,Aston Villa,Hull
+E0,03/05/14,Man United,Sunderland
+E0,03/05/14,Newcastle,Cardiff
+E0,03/05/14,Stoke,Fulham
+E0,03/05/14,Swansea,Southampton
+E0,03/05/14,Everton,Man City
+E0,04/05/14,Arsenal,West Brom
+E0,04/05/14,Chelsea,Norwich
+E0,05/05/14,Crystal Palace,Liverpool
+E0,06/05/14,Man United,Hull
+E0,07/05/14,Man City,Aston Villa
+E0,07/05/14,Sunderland,West Brom
+E0,11/05/14,Cardiff,Chelsea
+E0,11/05/14,Fulham,Crystal Palace
+E0,11/05/14,Hull,Everton
+E0,11/05/14,Liverpool,Newcastle
+E0,11/05/14,Man City,West Ham
+E0,11/05/14,Norwich,Arsenal
+E0,11/05/14,Southampton,Man United
+E0,11/05/14,Sunderland,Swansea
+E0,11/05/14,Tottenham,Aston Villa
+E0,11/05/14,West Brom,Stoke
+E1,18/04/14,Doncaster,Derby
+E1,19/04/14,Leicester,QPR
+E1,19/04/14,Barnsley,Leeds
+E1,19/04/14,Middlesbrough,Millwall
+E1,19/04/14,Nott'm Forest,Birmingham
+E1,19/04/14,Watford,Ipswich
+E1,21/04/14,Birmingham,Blackburn
+E1,21/04/14,Brighton,Blackpool
+E1,21/04/14,Burnley,Wigan
+E1,21/04/14,Derby,Barnsley
+E1,21/04/14,Ipswich,Bournemouth
+E1,21/04/14,Millwall,Doncaster
+E1,21/04/14,QPR,Watford
+E1,21/04/14,Sheffield Weds,Charlton
+E1,21/04/14,Yeovil,Huddersfield
+E1,21/04/14,Leeds,Nott'm Forest
+E1,22/04/14,Bolton,Leicester
+E1,22/04/14,Reading,Middlesbrough
+E1,25/04/14,Brighton,Yeovil
+E1,26/04/14,Burnley,Ipswich
+E1,26/04/14,Birmingham,Leeds
+E1,26/04/14,Bournemouth,Nott'm Forest
+E1,26/04/14,Charlton,Blackburn
+E1,26/04/14,Derby,Watford
+E1,26/04/14,Doncaster,Reading
+E1,26/04/14,Huddersfield,Leicester
+E1,26/04/14,Middlesbrough,Barnsley
+E1,26/04/14,QPR,Millwall
+E1,26/04/14,Sheffield Weds,Bolton
+E1,26/04/14,Wigan,Blackpool
+E1,29/04/14,Birmingham,Wigan
+E1,29/04/14,Charlton,Watford
+E1,03/05/14,Barnsley,QPR
+E1,03/05/14,Blackburn,Wigan
+E1,03/05/14,Blackpool,Charlton
+E1,03/05/14,Bolton,Birmingham
+E1,03/05/14,Ipswich,Sheffield Weds
+E1,03/05/14,Leeds,Derby
+E1,03/05/14,Leicester,Doncaster
+E1,03/05/14,Millwall,Bournemouth
+E1,03/05/14,Nott'm Forest,Brighton
+E1,03/05/14,Reading,Burnley
+E1,03/05/14,Watford,Huddersfield
+E1,03/05/14,Yeovil,Middlesbrough
+E2,18/04/14,Bradford,Peterboro
+E2,18/04/14,Sheffield United,Stevenage
+E2,21/04/14,Leyton Orient,Wolves
+E2,21/04/14,Crewe,Colchester
+E2,21/04/14,Milton Keynes Dons,Brentford
+E2,21/04/14,Notts County,Crawley Town
+E2,21/04/14,Oldham,Coventry
+E2,21/04/14,Peterboro,Carlisle
+E2,21/04/14,Preston,Shrewsbury
+E2,21/04/14,Rotherham,Port Vale
+E2,21/04/14,Stevenage,Bristol City
+E2,21/04/14,Swindon,Bradford
+E2,21/04/14,Tranmere,Sheffield United
+E2,21/04/14,Walsall,Gillingham
+E2,25/04/14,Port Vale,Sheffield United
+E2,26/04/14,Bradford,Crawley Town
+E2,26/04/14,Bristol City,Crewe
+E2,26/04/14,Carlisle,Oldham
+E2,26/04/14,Colchester,Brentford
+E2,26/04/14,Coventry,Wolves
+E2,26/04/14,Leyton Orient,Tranmere
+E2,26/04/14,Notts County,Swindon
+E2,26/04/14,Preston,Gillingham
+E2,26/04/14,Rotherham,Milton Keynes Dons
+E2,26/04/14,Shrewsbury,Peterboro
+E2,26/04/14,Stevenage,Walsall
+E2,29/04/14,Crawley Town,Carlisle
+E2,29/04/14,Oldham,Sheffield United
+E2,03/05/14,Brentford,Stevenage
+E2,03/05/14,Crawley Town,Bristol City
+E2,03/05/14,Crewe,Preston
+E2,03/05/14,Gillingham,Shrewsbury
+E2,03/05/14,Milton Keynes Dons,Leyton Orient
+E2,03/05/14,Oldham,Notts County
+E2,03/05/14,Peterboro,Port Vale
+E2,03/05/14,Sheffield United,Coventry
+E2,03/05/14,Swindon,Rotherham
+E2,03/05/14,Tranmere,Bradford
+E2,03/05/14,Walsall,Colchester
+E2,03/05/14,Wolves,Carlisle
+E3,19/04/14,Burton,Hartlepool
+E3,19/04/14,Portsmouth,Bristol Rvs
+E3,21/04/14,Bristol Rvs,Rochdale
+E3,21/04/14,Dag and Red,Chesterfield
+E3,21/04/14,Exeter,Torquay
+E3,21/04/14,Fleetwood Town,Wycombe
+E3,21/04/14,Hartlepool,Morecambe
+E3,21/04/14,Mansfield,Cheltenham
+E3,21/04/14,Newport County,Burton
+E3,21/04/14,Northampton,Portsmouth
+E3,21/04/14,Plymouth,AFC Wimbledon
+E3,21/04/14,Scunthorpe,Oxford
+E3,21/04/14,Southend,Accrington
+E3,21/04/14,York,Bury
+E3,26/04/14,Bury,Portsmouth
+E3,26/04/14,Dag and Red,Northampton
+E3,26/04/14,Exeter,Scunthorpe
+E3,26/04/14,Fleetwood Town,Southend
+E3,26/04/14,Mansfield,Torquay
+E3,26/04/14,Oxford,Accrington
+E3,26/04/14,Plymouth,Hartlepool
+E3,26/04/14,Rochdale,Cheltenham
+E3,26/04/14,AFC Wimbledon,Morecambe
+E3,26/04/14,Wycombe,Bristol Rvs
+E3,26/04/14,York,Newport County
+E3,27/04/14,Burton,Chesterfield
+E3,03/05/14,Accrington,AFC Wimbledon
+E3,03/05/14,Bristol Rvs,Mansfield
+E3,03/05/14,Cheltenham,Dag and Red
+E3,03/05/14,Chesterfield,Fleetwood Town
+E3,03/05/14,Hartlepool,Exeter
+E3,03/05/14,Morecambe,Bury
+E3,03/05/14,Newport County,Rochdale
+E3,03/05/14,Northampton,Oxford
+E3,03/05/14,Portsmouth,Plymouth
+E3,03/05/14,Scunthorpe,York
+E3,03/05/14,Southend,Burton
+E3,03/05/14,Torquay,Wycombe
+EC,18/04/14,Tamworth,Hereford
+EC,19/04/14,Chester,Wrexham
+EC,19/04/14,Welling United,Luton
+EC,19/04/14,Forest Green,Woking
+EC,19/04/14,Halifax,Macclesfield
+EC,19/04/14,Nuneaton Town,Barnet
+EC,21/04/14,Woking,Aldershot
+EC,21/04/14,Cambridge,Chester
+EC,21/04/14,Dartford,Tamworth
+EC,21/04/14,Grimsby,Hyde United
+EC,21/04/14,Hereford,Alfreton Town
+EC,21/04/14,Kidderminster,Nuneaton Town
+EC,21/04/14,Luton,Forest Green
+EC,21/04/14,Macclesfield,Gateshead
+EC,21/04/14,Salisbury,Welling United
+EC,21/04/14,Southport,Halifax
+EC,21/04/14,Wrexham,Lincoln
+EC,21/04/14,Barnet,Braintree Town
+EC,26/04/14,Aldershot,Hereford
+EC,26/04/14,Alfreton Town,Macclesfield
+EC,26/04/14,Braintree Town,Grimsby
+EC,26/04/14,Chester,Salisbury
+EC,26/04/14,Forest Green,Wrexham
+EC,26/04/14,Gateshead,Cambridge
+EC,26/04/14,Halifax,Kidderminster
+EC,26/04/14,Hyde United,Luton
+EC,26/04/14,Lincoln,Barnet
+EC,26/04/14,Nuneaton Town,Dartford
+EC,26/04/14,Tamworth,Woking
+EC,26/04/14,Welling United,Southport
